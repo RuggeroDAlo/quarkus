@@ -31,7 +31,6 @@
         <opentelemetry-alpha.version>1.5.0-alpha</opentelemetry-alpha.version>
         <jaeger.version>1.6.0</jaeger.version>
         <quarkus-http.version>4.1.1</quarkus-http.version>
-        <jboss-servlet-api_4.0_spec.version>1.0.0.Final</jboss-servlet-api_4.0_spec.version>
         <micrometer.version>1.7.3</micrometer.version>
         <google-auth.version>0.22.0</google-auth.version>
         <microprofile-config-api.version>2.0</microprofile-config-api.version>
@@ -168,7 +167,7 @@
         <artemis.version>2.17.0</artemis.version>
         <proton-j.version>0.33.8</proton-j.version>
         <okhttp.version>3.14.9</okhttp.version>
-        <sentry.version>5.0.1</sentry.version>
+        <sentry.version>5.1.1</sentry.version>
         <hibernate-quarkus-local-cache.version>0.1.0</hibernate-quarkus-local-cache.version>
         <kubernetes-client.version>5.7.0</kubernetes-client.version>
         <flapdoodle.mongo.version>2.2.0</flapdoodle.mongo.version>
